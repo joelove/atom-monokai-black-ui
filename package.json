@@ -1,7 +1,7 @@
 {
   "name": "atom-monokai-black-ui",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A truly black high-contrast UI theme to go with Atom Monokai Black syntax theme",
   "keywords": [
     "ui",
